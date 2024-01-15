@@ -172,10 +172,6 @@ public class rpg {
             }
         } while (EnemyHP > 0 && HP > 0);
     }
-
-    void Effects1(){
-        
-    }
 }
 
 //While(EnemyHP > 0 && HP > 0) Supaya ketika salah satu false, game berakhir
